@@ -11,7 +11,7 @@ const initialBooks = [
     isPopular: true
   },
   {
-    id: 3,
+    id: 2,
     title: "Dune",
     author: "Frank Herbert",
     category: "Sci-Fi",
@@ -21,7 +21,7 @@ const initialBooks = [
   },
   
   {
-    id: 5,
+    id: 3,
     title: "Sapiens",
     author: "Yuval Noah Harari",
     category: "Non-Fiction",
@@ -30,7 +30,7 @@ const initialBooks = [
     isPopular: true
   },
   {
-    id: 6,
+    id: 4,
     title: "The Hobbit",
     author: "J.R.R. Tolkien",
     category: "Fantasy",
