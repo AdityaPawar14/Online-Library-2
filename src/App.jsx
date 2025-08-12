@@ -14,11 +14,10 @@ function App() {
 
     <>
 
-       {/* <nav className="bg-white shadow-md p-4 sticky top-0 z-10"> */}
         <div className="">
           
           <a
-            href="https://github.com/AdityaPawar14/Online-Library"
+            href="https://github.com/AdityaPawar14/Online-Library-2"
             target="_blank"
             rel="noopener noreferrer"
             className="text-black px-4 py-2 rounded hover:text-indigo-600 text-lg"
